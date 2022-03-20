@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "question_2",
+      "cwd": "question_2",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "question_2 (profile mode)",
+      "cwd": "question_2",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "question_2 (release mode)",
+      "cwd": "question_2",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
